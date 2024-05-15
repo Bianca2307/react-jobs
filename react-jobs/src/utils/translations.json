@@ -1,0 +1,45 @@
+{
+    "HERO":{
+        "DEFAULT_TITLE":"Become a React Dev",
+        "DEFAULT_SUBTITLE":"Find the React job that fits your skill set"
+    },
+    "HOME":{
+        "FOR_DEVELOPERS":"For Developers",
+        "BROWSE_JOBS":" Browse our React jobs and start your career today",
+        "BROWSE":"Browse Jobs",
+        "FOR_EMPLOYERS":"For Employers",
+        "LIST_JOB":"List your job to find the perfect developer for the role",
+        "ADD_JOB":"Add Job"
+    },
+    "JOB":{
+        "READ_MORE":"Read More"
+    },
+    "ALL_JOBS":{
+        "VIEW_ALL":"View All Jobs"
+    },
+    "ADD_JOB":{
+        "JOB_TYPE":"Job Type",
+        "JOB_LISTING_NAME":"Job Listing Name",
+        "DESCRIPTION":"Description",
+        "SALARY":"Salary",
+        "LOCATION":"Location",
+        "COMPANY_NAME":"Company Name",
+        "COMPANY_DESCRIPTION":"Company Description",
+        "CONTACT_EMAIL":"Contact Email",
+        "CONTACT_PHONE":"Contact Phone"
+    },
+    "JOB_DETAILS":{
+        "BACK":"Back to Job Listings",
+        "DESCRIPTION":"Job Description",
+        "SALARY":"Salary",
+        "COMPANY_INFO":"Company Info",
+        "MANAGE":"Manage Job",
+        "EDIT":"Edit Job",
+        "DELETE":"Delete Job"
+    },
+    "NOT_FOUND":{
+        "NOT":"404 Not Found",
+        "NOT_EXIST":"This page does not exist",
+        "GO_BACK":"Go Back"
+    }
+}
